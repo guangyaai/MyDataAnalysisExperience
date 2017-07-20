@@ -8,3 +8,6 @@
 - 在每次训练后，**利用callback**设置了一个可以自行调整学习率的算法
 - 进行了**混淆矩阵的绘制**
 
+## Web_Traffic_Visualization
+- 对网络访问数据进行可视化处理
+- 其中对pandas group的使用非常灵活
